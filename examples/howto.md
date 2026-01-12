@@ -1019,7 +1019,7 @@ You may use in semantics.
 
 <div class="blank">
 
-## Blank Slide
+# Blank Slide
 
 ```
 
