@@ -81,31 +81,22 @@ section table {
 
 </style>
 
-
-
 # MarpX Features Table
 
 <center>
 
-| Item                                                                               | Marcador                                                             |
-| ---------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| [Boxes](https://cunhapaulo.github.io/marpx/examples/howto.html#13)                 | `<box></box>` or `<span class="box"></span>`                         |
-| [Black or White Slides](https://cunhapaulo.github.io/marpx/examples/howto.html#35) | `<!-- _class: "black-slide" -->` or `<!-- _class: "white-slide" -->` |
-| [Callouts](https://cunhapaulo.github.io/marpx/examples/howto.html#31)              | `<div class="callout"></div>`                                        |
-| [Containers](https://cunhapaulo.github.io/marpx/examples/howto.html#39)            | `<div class="container"></div>`                                      |
-| [Multicolumn](https://cunhapaulo.github.io/marpx/examples/howto.html#19)           | `<div class="multicolumn" align="center"></div>`                     |
-| [Notes](https://cunhapaulo.github.io/marpx/examples/howto.html#37)                 | `<div class="notes"></div>`                                          |
-| [Quotes](https://cunhapaulo.github.io/marpx/examples/howto.html#29)                | `<!-- _class: "quote" -->` or `<!-- _class: "quote dark" -->`        |
-| [References](https://cunhapaulo.github.io/marpx/examples/howto.html#33)            | `<!-- _class: "references" -->`                                      |
-| [Title](https://cunhapaulo.github.io/marpx/examples/howto.html#5)                  | `<!-- _class: "title" -->` or `<!-- _class: "title-academic" -->`    |
-| [TOC](https://cunhapaulo.github.io/marpx/examples/howto.html#9)                    | `<!-- _class: "toc" -->`                                             |
-| [Transition Slide](https://cunhapaulo.github.io/marpx/examples/howto.html#11)      | `<!-- _class: "chapter" -->`                                         |
-| [Videos](https://cunhapaulo.github.io/marpx/examples/howto.html#21)                | `<video controls height="400px"></video>`                            |
+| Item                                                                               | Marcador                                                             | Item                                                                          | Marcador                                                          |
+| ----------------------------------------------------------------------------------: | :-------------------------------------------------------------------- | -----------------------------------------------------------------------------: | :----------------------------------------------------------------- |
+| [Boxes](https://cunhapaulo.github.io/marpx/examples/howto.html#13)                 | `<box></box>` or <br>`<span class="box"></span>`                         | [Quotes](https://cunhapaulo.github.io/marpx/examples/howto.html#29)           | `<!-- _class: "quote" -->` or <br> `<!-- _class: "quote dark" -->`     |
+| [Black or White Slides](https://cunhapaulo.github.io/marpx/examples/howto.html#35) | `<!-- _class: "black-slide" -->` or `<!-- _class: "white-slide" -->` | [References](https://cunhapaulo.github.io/marpx/examples/howto.html#33)       | `<!-- _class: "references" -->`                                   |
+| [Callouts](https://cunhapaulo.github.io/marpx/examples/howto.html#31)              | `<div class="callout"></div>`                                        | [Title](https://cunhapaulo.github.io/marpx/examples/howto.html#5)             | `<!-- _class: "title" -->` or `<!-- _class: "title-academic" -->` |
+| [Containers](https://cunhapaulo.github.io/marpx/examples/howto.html#39)            | `<div class="container"></div>`                                      | [TOC](https://cunhapaulo.github.io/marpx/examples/howto.html#9)               | `<!-- _class: "toc" -->`                                          |
+| [Multicolumn](https://cunhapaulo.github.io/marpx/examples/howto.html#19)           | `<div class="multicolumn" align="center"></div>`                     | [Transition Slide](https://cunhapaulo.github.io/marpx/examples/howto.html#11) | `<!-- _class: "chapter" -->`                                      |
+| [Notes](https://cunhapaulo.github.io/marpx/examples/howto.html#37)                 | `<div class="notes"></div>`                                          | [Videos](https://cunhapaulo.github.io/marpx/examples/howto.html#21)           | `<video controls height="400px"></video>`                         |
 
 <tabcaption>Table of MarpX functionalities.
 
 ---
-
 
 <!-- _class: "black-slide nobrand"  -->
 
@@ -611,7 +602,6 @@ designs for hardware and software systems."
 
 ---
 
-
 # Callouts
 
 <div class="multicolumn">
@@ -836,6 +826,7 @@ You may use in semantics.
 <div class="multicolumn vcenter"><div align="center">
 
 ![h:400 center](./assets/images/animations/sphere.gif)
+
 <figcaption> First animation.</figcaption>
 
 </div><div align=center>
@@ -986,7 +977,6 @@ You may use in semantics.
 
 # \<div class="container">\</div>
 
-
 ```md
 # Containers
 
@@ -1016,22 +1006,17 @@ You may use in semantics.
 # \<div class="blank">\</div>
 
 ```md
-
 <div class="blank">
 
 # Blank Slide
-
 ```
 
 ---
-
 
 <!-- _class: "blank" -->
 
 <center>
 
-## <!-- fit --> [`Return to beginning`](#2) <br>  or <br> [`Go to MarpX at Github`](https://github.com/cunhapaulo/MarpX)
+## <!-- fit --> [`Return to beginning`](#2) <br> or <br> [`Go to MarpX at Github`](https://github.com/cunhapaulo/MarpX)
 
 </center>
-
-
