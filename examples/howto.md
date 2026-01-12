@@ -19,9 +19,9 @@ math: mathjax
 
 <!-- _class: "title" -->
 
-# Reference **Guide** to MarpX <br> or How to use MarpX **Special Tags**
+# **Reference Guide** to MarpX <br> <small>or How to use MarpX **Special Tags**</small>
 
-## Paulo Cunha - 2025
+## Paulo Cunha - 2025-2026
 
 ###
 
@@ -54,12 +54,13 @@ math: mathjax
 
 `Slide types:`
 
+- [Blank Slide](#43)
 - [Title Slide](#7)
 - [Academic Title](#5)
 - [TOC Slide](#9)
-- [Transition Slide](#11)
-- [One Image Slide](#17)
+- [Chapter Slide](#11)
 - [Quote Slide](#29)
+- [One Image Slide](#17)
 - [Black and White Slide](#35)
 - [References Slide ](#33)
 
@@ -980,6 +981,50 @@ You may use in semantics.
 </div>
 
 ---
+
+<!-- _class: "black-slide" -->
+
+# \<div class="container">\</div>
+
+
+```md
+# Containers
+
+<div class="container">
+
+## Título
+
+<center>
+
+<bbox><box>Input<br>Data</box> $\longrightarrow$ <box>Processing</box> $\longrightarrow$<box>Output<br>info</box></bbox> $\longrightarrow$ <box> Consumer </box>
+
+</center>
+
+</div>
+```
+
+---
+
+<!-- _class: "blank" -->
+
+# Blank Slide
+
+---
+
+<!-- _class: "black-slide" -->
+
+# \<div class="blank">\</div>
+
+```md
+
+<div class="blank">
+
+## Blank Slide
+
+```
+
+---
+
 
 <!-- _class: "blank" -->
 
