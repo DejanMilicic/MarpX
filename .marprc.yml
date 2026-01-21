@@ -1,0 +1,23 @@
+# Marp configuration file
+# This tells Marp where to find your custom themes
+
+# Allow HTML in markdown
+html: true
+
+themeSet:
+  - themes/marpx.css
+  - themes/cantor.css
+  - themes/church.css
+  - themes/copernicus.css
+  - themes/einstein.css
+  - themes/frankfurt.css
+  - themes/galileo.css
+  - themes/gauss.css
+  - themes/gropius.css
+  - themes/gödel.css
+  - themes/haskell.css
+  - themes/hobbes.css
+  - themes/lorca.css
+  - themes/newton.css
+  - themes/socrates.css
+  - themes/sparta.css
