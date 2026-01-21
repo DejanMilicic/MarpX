@@ -280,3 +280,8 @@ For questions, suggestions, or contributions, please open an issue or pull reque
 ## 📄 License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+## How to use it on macOS
+
+1. `brew install marp-cli`
+2. `marp examples/copernicus.md`
